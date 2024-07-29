@@ -1,0 +1,12 @@
+git init
+git config --global user.email "you@example.com"
+git config --global user.name "Your Git hub Name"
+git remote add origin paste_your_github_repository_link
+git add .
+git commit -m "Any message"
+git branch -M main
+git push -u origin main
+Now sign in to your git account
+
+
+
